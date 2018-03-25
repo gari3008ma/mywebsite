@@ -1,0 +1,35 @@
+body {
+  padding: 10px;
+  font: 30px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-family : Tangerine ;
+}
+.myimage{
+  border : 5px solid #000;
+}
+
+.myimage:hover{
+  border : 5px solid pink;
+}
+
+#Projects{
+  background-color : #efefef ;
+  padding : 5px;
+  font-size : 25px;
+  color : purple;
+  text-transform : uppercase;
+}
+.projectlist{
+  padding: 10px;
+  font: 15px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.firstpara{
+  background-color : #333;
+  color : #ffffff;
+  padding :10px;
+}
+
+
+.imagediv{
+  margin: 0px 5px 5px 550px;
+}
